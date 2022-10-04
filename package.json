@@ -1,0 +1,26 @@
+{
+  "name": "pchemjs",
+  "version": "0.0.1",
+  "description": "chemistry and physics library for js",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gooseterv/pchemjs.git"
+  },
+  "keywords": [
+    "chemistry",
+    "physics",
+    "science",
+    "math"
+  ],
+  "author": "goose V",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gooseterv/pchemjs/issues"
+  },
+  "homepage": "https://github.com/gooseterv/pchemjs#readme"
+}
