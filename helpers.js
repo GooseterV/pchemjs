@@ -75,7 +75,7 @@ export const MEASUREMENTS = {
 		megabit:1e6/8,
 		gigabit:1e9/8,
 		terrabit:1e12/8,
-		nibble:.5,
+		nibble:0.5,
 		byte:1,
 		word:2,
 		block:512,
