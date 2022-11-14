@@ -71,7 +71,7 @@ export function mechanicalAdvantage(input, output) {
 };
 
 export function kineticEnergy(mass, velocity) {
-    return .5*mass*(velocity**2);
+    return 0.5*mass*(velocity**2);
 };
 
 export function waveSpeed(frequency, wavelength) {
@@ -87,5 +87,5 @@ export function horsepower(torque, speed) {
 };
 
 export function displacement(initVelocity, finalVelocity, time) {
-    return .5*(initVelocity+finalVelocity)*time;
+    return 0.5*(initVelocity+finalVelocity)*time;
 };
